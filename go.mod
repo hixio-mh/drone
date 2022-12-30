@@ -7,7 +7,7 @@ require (
 	github.com/Azure/azure-storage-blob-go v0.7.0
 	github.com/Azure/go-autorest/autorest/adal v0.8.3 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20180315120708-ccb8e960c48f
-	github.com/aws/aws-sdk-go v1.15.57
+	github.com/aws/aws-sdk-go v1.33.0
 	github.com/codegangsta/negroni v1.0.0 // indirect
 	github.com/coreos/go-semver v0.2.0
 	github.com/dchest/authcookie v0.0.0-20120917135355-fbdef6e99866
@@ -25,8 +25,7 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/go-chi/chi v3.3.3+incompatible
 	github.com/go-chi/cors v1.0.0
-	github.com/go-ini/ini v1.39.0 // indirect
-	github.com/go-sql-driver/mysql v1.4.0
+	github.com/go-sql-driver/mysql v1.5.0
 	github.com/golang/mock v1.3.1
 	github.com/google/go-cmp v0.4.0
 	github.com/google/go-jsonnet v0.12.1
@@ -59,12 +58,10 @@ require (
 	github.com/robfig/cron v0.0.0-20180505203441-b41be1df6967
 	github.com/segmentio/ksuid v1.0.2
 	github.com/sirupsen/logrus v1.6.0
-	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/ugorji/go v1.1.7 // indirect
 	github.com/unrolled/secure v0.0.0-20181022170031-4b6b7cf51606
 	golang.org/x/crypto v0.0.0-20191206172530-e9b2fee46413
 	golang.org/x/sync v0.0.0-20190423024810-112230192c58
-	gopkg.in/ini.v1 v1.57.0 // indirect
 	gopkg.in/yaml.v2 v2.2.8
 	k8s.io/api v0.0.0-20181130031204-d04500c8c3dd
 	k8s.io/apimachinery v0.0.0-20181204150028-eb8c8024849b

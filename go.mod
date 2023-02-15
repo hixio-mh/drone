@@ -28,7 +28,7 @@ require (
 	github.com/go-ini/ini v1.39.0 // indirect
 	github.com/go-sql-driver/mysql v1.4.0
 	github.com/golang/mock v1.3.1
-	github.com/google/go-cmp v0.4.0
+	github.com/google/go-cmp v0.5.5
 	github.com/google/go-jsonnet v0.12.1
 	github.com/google/wire v0.2.1
 	github.com/gorhill/cronexpr v0.0.0-20140423231348-a557574d6c02 // indirect
@@ -54,7 +54,7 @@ require (
 	github.com/mitchellh/go-testing-interface v1.14.1 // indirect
 	github.com/mitchellh/hashstructure v1.0.0 // indirect
 	github.com/oxtoacart/bpool v0.0.0-20150712133111-4e1c5567d7c2
-	github.com/prometheus/client_golang v0.9.2
+	github.com/prometheus/client_golang v1.11.1
 	github.com/rainycape/unidecode v0.0.0-20150907023854-cb7f23ec59be // indirect
 	github.com/robfig/cron v0.0.0-20180505203441-b41be1df6967
 	github.com/segmentio/ksuid v1.0.2
@@ -62,10 +62,10 @@ require (
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/ugorji/go v1.1.7 // indirect
 	github.com/unrolled/secure v0.0.0-20181022170031-4b6b7cf51606
-	golang.org/x/crypto v0.0.0-20191206172530-e9b2fee46413
-	golang.org/x/sync v0.0.0-20190423024810-112230192c58
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
 	gopkg.in/ini.v1 v1.57.0 // indirect
-	gopkg.in/yaml.v2 v2.2.8
+	gopkg.in/yaml.v2 v2.3.0
 	k8s.io/api v0.0.0-20181130031204-d04500c8c3dd
 	k8s.io/apimachinery v0.0.0-20181204150028-eb8c8024849b
 	k8s.io/client-go v10.0.0+incompatible
